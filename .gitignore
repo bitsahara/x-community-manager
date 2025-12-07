@@ -1,0 +1,8 @@
+node_modules
+.env
+cookie.json
+captured_request.json
+3_searchTweets_1_result.json
+3_searchTweets_result.json
+twitter-profile_headless
+twitter-profile
