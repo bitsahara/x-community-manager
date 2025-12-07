@@ -54,7 +54,7 @@ Before you begin, ensure you have:
 
    If you are using a headless server, you will need to install Xvfb:
    ```bash
-  sudo ./install_xvfb.sh
+   sudo ./install_xvfb.sh
    ```
 
 3. **Create a `.env` file** in the root directory with your Google credentials:
@@ -78,6 +78,9 @@ Before you begin, ensure you have:
 
 - `GOOGLE_ID`: Your Google email address
 - `GOOGLE_PWD`: Your Google password
+
+- `X_USERNAME`: Your Twitter username
+- `X_PASSWORD`: Your Twitter password
 
 ### Influencers List (influencers.json)
 
