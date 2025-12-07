@@ -61,6 +61,8 @@ Before you begin, ensure you have:
    ```env
    GOOGLE_ID=your-google-email@gmail.com
    GOOGLE_PWD=your-google-password
+   X_USERNAME=your-x-username
+   X_PASSWORD=your-x-password
    ```
 
 4. **Create an `influencers.json` file** with Twitter usernames you want to track:
